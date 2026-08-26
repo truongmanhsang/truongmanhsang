@@ -119,16 +119,13 @@
 
 ## 📊 GitHub Analytics
 
+> Stats are self-hosted via GitHub Actions (no third-party rate limits) and refreshed daily.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truongmanhsang&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://raw.githubusercontent.com/truongmanhsang/truongmanhsang/output/metrics.svg" width="95%"/>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongmanhsang&theme=radical&hide_border=true" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongmanhsang&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=truongmanhsang&theme=radical&no-frame=true&row=2&column=4" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=truongmanhsang&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ## 🐍 Contribution Snake
