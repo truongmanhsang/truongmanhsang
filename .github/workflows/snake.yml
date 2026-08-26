@@ -21,5 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github-light
       - uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
