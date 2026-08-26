@@ -122,7 +122,7 @@
 > Stats are self-hosted via GitHub Actions (no third-party rate limits) and refreshed daily.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/truongmanhsang/truongmanhsang/output/metrics.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/truongmanhsang/truongmanhsang/main/metrics.svg" width="95%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongmanhsang&theme=radical&hide_border=true" width="49%"/>
